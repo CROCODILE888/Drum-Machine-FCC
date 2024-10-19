@@ -1,8 +1,13 @@
-# React + Vite
+To run project locally,
+run the following commands:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```
+npm i
+```
+```
+npm run dev
+```
+[Deployed Site](https://taha-the-online-drummer.netlify.app)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Preview of the project: ![image](https://github.com/user-attachments/assets/666040e4-f02a-44d7-9910-343f58aba8aa)
